@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="91220817-f3be-43c4-a81e-8199ae3497b2" kpf_version="5" name="counterpoint-project.komodoproject">
+<preference-set idref="91220817-f3be-43c4-a81e-8199ae3497b2" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+  <string id="userEnvironmentStartupOverride">PATH=C:\Users\Vassilis Dermentzis\AppData\Local\activestate\f524931c\DLLs;C:\Users\Vassilis Dermentzis\AppData\Local\activestate\f524931c\Scripts;C:\Users\Vassilis Dermentzis\AppData\Local\activestate\f524931c\Tools\ninja;C:\Users\Vassilis Dermentzis\AppData\Local\activestate\f524931c\Tools;C:\Users\Vassilis Dermentzis\AppData\Local\activestate\f524931c
+PYTHONIOENCODING=utf-8
+PYTHONPATH=H:\Vassilis Dermentzis Automated counterpoint using maze-solving perception\CounterPoint
+</string>
+</preference-set>
+</project>
